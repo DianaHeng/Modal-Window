@@ -8,8 +8,6 @@ A modal window is a type of graphical user interface element that appears on top
 1. Open window that presents different content on each window
 2. Close window by clicking the X button or Use ESC key
 
-
-[Modal window.webm](https://user-images.githubusercontent.com/82561944/221891306-2f6ac075-0ecc-42bd-ac87-d48a5e1287e9.webm)
-
+![modal window (1)](https://user-images.githubusercontent.com/82561944/221911741-c0dde6c1-7bd9-4225-96d4-3ba8f0972a7a.gif)
 
 
