@@ -67,6 +67,6 @@ document.addEventListener('keydown', function (e) {
 
   //click escape button
   if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
-    closeModal();
+    handleClose();
   }
 });
