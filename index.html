@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Modal window</title>
+  </head>
+  <body>
+    
+    <div class="buttons">
+      <button class="open-modal" data-id="one">Open modal 1</button>
+      <button class="open-modal" data-id="two">Open modal 2</button>
+     <button class="open-modal"data-id="three">Open modal 3</button>
+    </div>
+
+    <div class="modal hidden">
+      <div class="modal-header">
+      <button class="close-modal">&times;</button>
+      </div>
+      <h1>I'm a modal window 😍</h1>
+      <div class ="modal-content" >
+        <p>1</p>
+      </div>
+    </div>
+
+     
+    <div class="overlay hidden"></div>
+</body>
+
+    <script src="script.js"></script>
+  </body>
+</html>
